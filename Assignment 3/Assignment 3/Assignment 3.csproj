@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{79E9DAA8-31E8-45AB-B17C-1DA451989442}</ProjectGuid>
+    <ProjectGuid>{760E824D-A5E4-4685-9C5D-F91B4F996A1C}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>PCS_2___Week_1</RootNamespace>
-    <AssemblyName>PCS 2 - Week 1</AssemblyName>
+    <RootNamespace>Assignment_3</RootNamespace>
+    <AssemblyName>Assignment 3</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -53,9 +53,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{79E9DAA8-31E8-45AB-B17C-1DA451989442}</ProjectGuid>
+    <ProjectGuid>{A7D4141A-6D99-4408-9775-FA6328BC8FF2}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>PCS_2___Week_1</RootNamespace>
-    <AssemblyName>PCS 2 - Week 1</AssemblyName>
+    <RootNamespace>Week1___Exercise_2</RootNamespace>
+    <AssemblyName>Week1 - Exercise 2</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
